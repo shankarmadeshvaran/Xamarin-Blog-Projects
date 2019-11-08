@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{96186039-7052-451B-903E-E5C452A7D9B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContactsBook.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsBook/Views/ContactsPage.xaml.cs">
+    <Files>
+      <File FileName="ContactsBook/App.xaml.cs" Line="14" Column="51" />
+      <File FileName="ContactsBook/Views/ContactsPage.xaml.cs" Line="14" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactsBook" expanded="True">
+            <Node name="ContactsBook" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ContactsPage.xaml" expanded="True">
+                  <Node name="ContactsPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="ContactsBook.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContactsBook.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
