@@ -2,10 +2,8 @@
 I have created a project which will show how to work with CollectionView in Xamarin Forms.
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/iOS-Blog-Projects
-/CollectionView/blob/master/ScreenShots/mobile" width="40%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/iOS-Blog-Projects
-/CollectionView/blob/master/ScreenShots/simulator" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/blob/master/CollectionView/ScreenShots/simulator.png" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/blob/master/CollectionView/ScreenShots/mobile.png" width="40%" height="35%"/>
 </p>
 
 ## Concepts

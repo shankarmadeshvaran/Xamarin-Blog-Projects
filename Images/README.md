@@ -2,9 +2,8 @@
 I have created a project which will show how to work with images in Xamarin Forms.
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/iOS-Blog-Projects
-/Images/blob/master/ScreenShots/using%20C%23.png" width="40%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/iOS-Blog-Projects/Images/blob/master/ScreenShots/using%20XAML.png" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/blob/master/Images/ScreenShots/using%20C%23.png" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/blob/master/Images/ScreenShots/using%20XAML.png" width="40%" height="35%"/>
 </p>
 
 ## Concepts
