@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage Title="Contacts" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Name="contactsPage" x:Class="ContactsBook.Views.ContactsPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Command="{Binding AddContactCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <ListView ItemsSource="{Binding Contacts}" SelectedItem="{Binding SelectedContact, Mode=TwoWay}" HasUnevenRows="True" SeparatorColor="Gray" ItemSelected="OnContactSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ImageCell ImageSource="{Binding ProfileImage}" Text="{Binding FullName}" Detail="{Binding Phone}" DetailColor="Black" TextColor="Red">
+                    <ImageCell.ContextActions>
+                        <MenuItem Text="Call" IsDestructive="true" Command="{Binding Source={x:Reference contactsPage}, Path=ViewModel.CallContactCommand}" CommandParameter="{Binding .}" />
+                        <MenuItem Text="Delete" IsDestructive="true" Command="{Binding Source={x:Reference contactsPage}, Path=ViewModel.DeleteContactCommand}" CommandParameter="{Binding .}" />
+                    </ImageCell.ContextActions>
+                </ImageCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
