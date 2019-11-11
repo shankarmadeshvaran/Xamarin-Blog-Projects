@@ -2,20 +2,20 @@
 ContactsBook is a sample Application which I developed while learning Xamarin Forms. I developed this project in MVVM architecture and can be able to run in both iOS and Android devices.I have used SQLite local Database and imlpemented many more features. I think this project will help lot of new developers who started learning Xamarin development.
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/StartPage.png" width="30%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/NewContact.png" width="30%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/ContactList.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/StartPage.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/NewContact.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/ContactList.png" width="30%" height="35%"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/EditContact.png" width="40%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/MenuItems.png" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/EditContact.png" width="40%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/MenuItems.png" width="40%" height="35%"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/DeleteAlert.png" width="30%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/CallAlert.png" width="30%" height="35%"/>
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/Dialer.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/DeleteAlert.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/CallAlert.png" width="30%" height="35%"/>
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/Dialer.png" width="30%" height="35%"/>
 </p>
 
 ## Architecture
@@ -23,7 +23,7 @@ The Model-View-ViewModel (MVVM) pattern helps to cleanly separate the business a
 There are three core components in the MVVM pattern: the model, the view, and the view model. Each serves a distinct purpose.
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/Xamarin_MVVM_ContactsBook/blob/master/ScreenShots/mvvm.png" width="70%" height="70%"/> 
+<img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/tree/master/ContactsBook/ScreenShots/mvvm.png" width="70%" height="70%"/> 
 </p>
 
 ## Issues
