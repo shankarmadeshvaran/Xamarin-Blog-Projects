@@ -26,6 +26,9 @@ There are three core components in the MVVM pattern: the model, the view, and th
 <img src="https://github.com/shankarmadeshvaran/Xamarin-Blog-Projects/blob/ContactsBook/ScreenShots/mvvm.png" width="70%" height="70%"/> 
 </p>
 
+## Implementation
+I have put an article about [Xamarin.Forms MVVM: How to Work with SQLite DB(C# — Xaml)](https://medium.com/swlh/xamarin-forms-mvvm-how-to-work-with-sqlite-db-c-xaml-26fcae303edd) in detail in Medium.
+
 ## Issues
 I'll constantly update this project whenever I find the great coding standards and better architecture. So when you came across any error or better method to do code , feel free to raise a issue or contact me via [Twitter](https://twitter.com/Shankar__am)
 
