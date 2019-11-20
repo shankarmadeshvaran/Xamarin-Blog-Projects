@@ -9,5 +9,8 @@ Images are a crucial part of application navigation, usability, and branding. Xa
 ## [How To Work With CollectionView in Xamarin Forms](https://medium.com/a-developer-in-making/how-to-work-with-collectionview-in-xamarin-forms-5dc65c50b419)
 With Xamarin.Forms 4.3 stable release marks the removal of the experimental flag from collectionView as it moves into stable status. CollectionView is built to be fast, uses modern, native controls, and removes the concept of ViewCells.
 
+## [Xamarin.Forms MVVM: How to Work with SQLite DB(C# — Xaml)](https://medium.com/swlh/xamarin-forms-mvvm-how-to-work-with-sqlite-db-c-xaml-26fcae303edd)
+We are going to develop a ContactsBook App(Android & iOS) in MVVM Architecture using Xamarin Forms.
+
 ## More Updates
 Follow me on [Twitter](https://twitter.com/Shankar__am) or [LinkedIn](https://www.linkedin.com/in/shankar-mathesh) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
