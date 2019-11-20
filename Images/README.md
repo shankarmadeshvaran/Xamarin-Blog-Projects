@@ -13,4 +13,4 @@ I have mentioned different types of using images in Xamarin project with example
 I have put an [article](https://medium.com/a-developer-in-making/how-to-work-with-images-in-xamarin-forms-852e2420fb18) about how to work with images in Xamarin Forms in detail in Medium.
 
 ## More Updates
-Follow me on [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
+Follow me on [Twitter](https://twitter.com/Shankar__am) or [LinkedIn](https://www.linkedin.com/in/shankar-mathesh) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
