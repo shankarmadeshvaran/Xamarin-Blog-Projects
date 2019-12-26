@@ -1,4 +1,4 @@
-# [Xamarin Related Blog Posts](https://medium.com/a-developer-in-making/tagged/xamarin)
+# [Xamarin Related Blog Posts](https://medium.com/a-developer-in-making/tagged/xamarin) and [My Medium Blog Profile](https://medium.com/@shankarmadeshvaran)
 
 ## [Everything You Need To Know Before Starting Xamarin Development [2019 Edition]](https://medium.com/a-developer-in-making/everything-you-need-to-know-before-starting-xamarin-development-2019-edition-49744616196e)
 Are you planning to build a cross-platform Android, iOS or Windows app? Before dive into Xamarin development, it is best to look at the several features that the development framework has to offer.
