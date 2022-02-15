@@ -13,4 +13,4 @@ With Xamarin.Forms 4.3 stable release marks the removal of the experimental flag
 We are going to develop a ContactsBook App(Android & iOS) in MVVM Architecture using Xamarin Forms.
 
 ## More Updates
-Follow me on [Twitter](https://twitter.com/Shankar__am) or [LinkedIn](https://www.linkedin.com/in/shankar-mathesh) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
+Follow me on [Twitter](https://twitter.com/devinmaking) or [LinkedIn](https://www.linkedin.com/in/shankar-mathesh) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
